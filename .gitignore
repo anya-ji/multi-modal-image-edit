@@ -1,1 +1,9 @@
 data/
+inpainted/
+instructions/
+sampled/
+dataset.json
+__MACOSX/
+ip2p/results/
+ip2p/output/
+ip2p/wandb/
