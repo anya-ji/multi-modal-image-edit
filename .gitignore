@@ -7,3 +7,15 @@ __MACOSX/
 ip2p/results/
 ip2p/output/
 ip2p/wandb/
+./baseline_predictions.zip
+baseline_predictions/
+baseline_predictions_reindexed/
+sketch_only_predictions/
+text_only_predictions/
+ip2p_flat/
+ip2p_predictions/
+outputs_sketch_and_prompt/
+baseline_predictions.zip
+ip2p/ip2p_predictions.zip
+masked_baseline_predictions_reindexed/
+sd_baseline_predictions/
